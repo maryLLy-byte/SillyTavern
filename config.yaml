@@ -13,7 +13,7 @@ enableCorsProxy: true
 enableUserAccounts: false
 enableDiscreetLogin: false
 cookieSecret: y1hfwA5nktV8UzmB111fQpt0hzcT+8G5mJlmnWfDm0h6dakQwbvRw8p0I30cpK4PLl8TeRV9OW8Bpo7RSkMV2w==
-disableCsrfProtection: false
+disableCsrfProtection: true
 securityOverride: false
 autorun: true
 disableThumbnails: false
